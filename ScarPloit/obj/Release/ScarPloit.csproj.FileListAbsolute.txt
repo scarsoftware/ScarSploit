@@ -1,0 +1,13 @@
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\bin\Release\ScarPloit.exe.config
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\bin\Release\ScarPloit.exe
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\bin\Release\ScarPloit.pdb
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\bin\Release\WeAreDevs_API.dll
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Release\ScarPloit.csproj.AssemblyReference.cache
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Release\ScarPloit.csproj.SuggestedBindingRedirects.cache
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Release\ScarPloit.scarploit.resources
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Release\ScarPloit.Properties.Resources.resources
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Release\ScarPloit.csproj.GenerateResource.cache
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Release\ScarPloit.csproj.CoreCompileInputs.cache
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Release\ScarPloit.csproj.CopyComplete
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Release\ScarPloit.exe
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Release\ScarPloit.pdb

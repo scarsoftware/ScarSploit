@@ -1,0 +1,83 @@
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\bin\Debug\ScarPloit.exe.config
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\bin\Debug\ScarPloit.exe
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\bin\Debug\ScarPloit.pdb
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\bin\Debug\WeAreDevs_API.dll
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Debug\ScarPloit.csproj.AssemblyReference.cache
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Debug\ScarPloit.csproj.SuggestedBindingRedirects.cache
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Debug\ScarPloit.Properties.Resources.resources
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Debug\ScarPloit.csproj.GenerateResource.cache
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Debug\ScarPloit.csproj.CoreCompileInputs.cache
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Debug\ScarPloit.csproj.CopyComplete
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Debug\ScarPloit.exe
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Debug\ScarPloit.pdb
+D:\Admin\ScarPloit data\ScarPloit\ScarPloit\obj\Debug\ScarPloit.scarploit.resources
+D:\Admin\ScarPloit data\ScarPloit\obj\Debug\ScarPloit.csproj.AssemblyReference.cache
+D:\Admin\ScarPloit data\ScarPloit\obj\Debug\ScarPloit.csproj.SuggestedBindingRedirects.cache
+D:\Admin\ScarPloit data\ScarPloit\obj\Debug\ScarPloit.scarploit.resources
+D:\Admin\ScarPloit data\ScarPloit\obj\Debug\ScarPloit.csproj.GenerateResource.cache
+D:\Admin\ScarPloit data\ScarPloit\obj\Debug\ScarPloit.csproj.CoreCompileInputs.cache
+D:\Admin\ScarPloit data\ScarPloit\obj\Debug\ScarPloit.csproj.CopyComplete
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\ScarSploit.exe.config
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\ScarSploit.exe
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\ScarSploit.pdb
+D:\Admin\ScarPloit data\ScarPloit\obj\Debug\ScarSploit.Properties.Resources.resources
+D:\Admin\ScarPloit data\ScarPloit\obj\Debug\ScarSploit.exe
+D:\Admin\ScarPloit data\ScarPloit\obj\Debug\ScarSploit.pdb
+D:\Admin\ScarPloit data\ScarPloit\obj\Debug\ScarSploit.sskeys.resources
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\Siticone.Desktop.UI.dll
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\Discord.Net.Core.dll
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\Discord.Net.Rest.dll
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\Discord.Net.WebSocket.dll
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\Newtonsoft.Json.dll
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.Buffers.dll
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.Collections.Immutable.dll
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.Interactive.Async.dll
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.Linq.Async.dll
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.Memory.dll
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.Numerics.Vectors.dll
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.ValueTuple.dll
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\Discord.Net.Core.xml
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\Discord.Net.Rest.xml
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\Discord.Net.WebSocket.xml
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\Newtonsoft.Json.xml
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.Buffers.xml
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.Collections.Immutable.xml
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.Interactive.Async.xml
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.Linq.Async.xml
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.Memory.xml
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.Numerics.Vectors.xml
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Admin\ScarPloit data\ScarPloit\bin\Debug\System.ValueTuple.xml
+D:\Admin\ScarSploit data\ScarPloit\bin\Debug\ScarSploit.exe.config
+D:\Admin\ScarSploit data\ScarPloit\bin\Debug\ScarSploit.exe
+D:\Admin\ScarSploit data\ScarPloit\bin\Debug\ScarSploit.pdb
+D:\Admin\ScarSploit data\ScarPloit\bin\Debug\Siticone.Desktop.UI.dll
+D:\Admin\ScarSploit data\ScarPloit\obj\Debug\ScarPloit.csproj.AssemblyReference.cache
+D:\Admin\ScarSploit data\ScarPloit\obj\Debug\ScarPloit.csproj.SuggestedBindingRedirects.cache
+D:\Admin\ScarSploit data\ScarPloit\obj\Debug\ScarPloit.scarploit.resources
+D:\Admin\ScarSploit data\ScarPloit\obj\Debug\ScarSploit.sskeys.resources
+D:\Admin\ScarSploit data\ScarPloit\obj\Debug\ScarSploit.Properties.Resources.resources
+D:\Admin\ScarSploit data\ScarPloit\obj\Debug\ScarPloit.csproj.GenerateResource.cache
+D:\Admin\ScarSploit data\ScarPloit\obj\Debug\ScarPloit.csproj.CoreCompileInputs.cache
+D:\Admin\ScarSploit data\ScarPloit\obj\Debug\ScarPloit.csproj.CopyComplete
+D:\Admin\ScarSploit data\ScarPloit\obj\Debug\ScarSploit.exe
+D:\Admin\ScarSploit data\ScarPloit\obj\Debug\ScarSploit.pdb
+D:\Admin\ScarSploit data\ScarPloit\bin\Debug\AnemoAPI.dll
+D:\Admin\Software\ScarSploit\ScarPloit\bin\Debug\ScarSploit.exe.config
+D:\Admin\Software\ScarSploit\ScarPloit\bin\Debug\ScarSploit.exe
+D:\Admin\Software\ScarSploit\ScarPloit\bin\Debug\ScarSploit.pdb
+D:\Admin\Software\ScarSploit\ScarPloit\bin\Debug\Siticone.Desktop.UI.dll
+D:\Admin\Software\ScarSploit\ScarPloit\obj\Debug\ScarPloit.csproj.AssemblyReference.cache
+D:\Admin\Software\ScarSploit\ScarPloit\obj\Debug\ScarPloit.csproj.SuggestedBindingRedirects.cache
+D:\Admin\Software\ScarSploit\ScarPloit\obj\Debug\ScarPloit.scarploit.resources
+D:\Admin\Software\ScarSploit\ScarPloit\obj\Debug\ScarSploit.Properties.Resources.resources
+D:\Admin\Software\ScarSploit\ScarPloit\obj\Debug\ScarPloit.csproj.GenerateResource.cache
+D:\Admin\Software\ScarSploit\ScarPloit\obj\Debug\ScarPloit.csproj.CoreCompileInputs.cache
+D:\Admin\Software\ScarSploit\ScarPloit\obj\Debug\ScarPloit.csproj.CopyComplete
+D:\Admin\Software\ScarSploit\ScarPloit\obj\Debug\ScarSploit.exe
+D:\Admin\Software\ScarSploit\ScarPloit\obj\Debug\ScarSploit.pdb
